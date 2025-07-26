@@ -1,0 +1,10 @@
+colormath==3.0.0
+colour==0.1.5
+colour-science==0.4.1
+imageio==2.21.1
+ipython==8.4.0
+matplotlib==3.5.1
+matplotlib-inline==0.1.6
+numpy==1.22.2
+pandas==1.4.1
+Pillow==9.2.0
